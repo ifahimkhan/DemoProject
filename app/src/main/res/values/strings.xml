@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="author_name">Mohammed Fahim khan</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_year">Enter Year</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+</resources>
